@@ -1,1 +1,1 @@
-The repo is all about C language
+Its all about C language
