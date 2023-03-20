@@ -1,9 +1,13 @@
-/**
-*The main function
-*the return(0)
-*/
 #include <stdio.h>
+
+/**
+ * main - the main function is very important
+ *
+ * Return: it always returns(0)
+ */
+
 int main(void)
-{                                                                       puts("\"Programming is like building a multilingual puzzle \n");
-        return(0);
+{
+	puts("\"programming is like building a multilingual puzzle,");
+	return (0);
 }
